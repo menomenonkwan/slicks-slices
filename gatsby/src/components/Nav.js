@@ -82,7 +82,6 @@ const NavStyles = styled.nav`
   }
 `;
 
-
 export default function Nav() {
   return (
     <NavStyles>
